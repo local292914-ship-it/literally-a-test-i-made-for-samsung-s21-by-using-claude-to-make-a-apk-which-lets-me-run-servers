@@ -1,0 +1,1 @@
+# literally-a-test-i-made-for-samsung-s21-by-using-claude-to-make-a-apk-which-lets-me-run-servers
