@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.example.servercon'
+    compileSdk 34
+    defaultConfig {
+        applicationId 'com.example.servercon'
+        minSdk 26
+        targetSdk 28   // keeps exec from app storage allowed (sideload only)
+        versionCode 1
+        versionName '1.0'
+    }
+    lint { abortOnError false; checkReleaseBuilds false }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+}
