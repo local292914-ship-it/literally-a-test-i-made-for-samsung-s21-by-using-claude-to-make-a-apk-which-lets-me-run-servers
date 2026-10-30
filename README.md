@@ -1,1 +1,1 @@
-# literally-a-test-i-made-for-samsung-s21-by-using-claude-to-make-a-apk-which-lets-me-run-servers
+mostly im bored. generally? i want my phone to stop crying over anvil mc with its microtransactions and it maybe works on other devices? i dunno.
