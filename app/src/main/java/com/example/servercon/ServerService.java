@@ -9,7 +9,7 @@ public class ServerService extends Service {
     public static volatile ServerService inst;
     public static volatile Runnable onLog;
     static final StringBuilder log = new StringBuilder();
-    Process proc;
+       java.lang.Process proc;
     OutputStream stdin;
     PowerManager.WakeLock wl;
 
